@@ -1,4 +1,4 @@
 # lista_tarefas
 Lista de tarefas no estilo ToDo feito em flutter (Desconsidere os arquivos base do flutter)
 
-![Alt Text](https://media.giphy.com/media/s53s6mF2G81laU9GBJ/giphy.gif?cid=790b76110e6cb553c1dd46268a1db0d1e2220829e492003c&rid=giphy.gif&ct=g)
+![Alt Text](https://media.giphy.com/media/q3qP8Qd3ICVanr4pc2/giphy.gif?cid=790b76115fecc822560eadb0f399ae5959c78e777f5a7f4e&rid=giphy.gif&ct=g)
